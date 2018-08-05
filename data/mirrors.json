@@ -879,19 +879,19 @@
             "label": "Ubuntu",
             "children": [
                 {
-                    "value": "/ubuntu-releases/xenial/ubuntu-16.04.4-server-amd64.iso",
+                    "value": "/ubuntu-releases/xenial/ubuntu-16.04.5-server-amd64.iso",
                     "label": "16.04-server-amd64"
                 },
                 {
-                    "value": "/ubuntu-releases/xenial/ubuntu-16.04.4-server-i386.iso",
+                    "value": "/ubuntu-releases/xenial/ubuntu-16.04.5-server-i386.iso",
                     "label": "16.04-server-i386"
                 },
                 {
-                    "value": "/ubuntu-releases/xenial/ubuntu-16.04.4-desktop-amd64.iso",
+                    "value": "/ubuntu-releases/xenial/ubuntu-16.04.5-desktop-amd64.iso",
                     "label": "16.04-desktop-amd64"
                 },
                 {
-                    "value": "/ubuntu-releases/xenial/ubuntu-16.04.4-desktop-i386.iso",
+                    "value": "/ubuntu-releases/xenial/ubuntu-16.04.5-desktop-i386.iso",
                     "label": "16.04-desktop-i386"
                 },
                 {
